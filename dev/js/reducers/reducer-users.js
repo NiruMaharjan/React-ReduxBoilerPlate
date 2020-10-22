@@ -6,7 +6,7 @@ export default function () {
       last: "Roberts",
       age: 71,
       description: "Bucky is  React Developer and Youtuber",
-      thumbnail: "http://i.imgur.com/7uUrPi.jpksk",
+      thumbnail: "https://static.toiimg.com/photo/msid-69026738,width-96,height-65.cms",
     },
     {
       id: 2,
@@ -14,7 +14,7 @@ export default function () {
       last: "Wasilenko",
       age: 27,
       description: "Joby loves the Packers, cheese and turtle",
-      thumbnail: "http://i.imgur.com/2343s.png",
+      thumbnail: "https://mk0cs00242yfx7ww7i54.kinstacdn.com/wp-content/uploads/sites/5/nepal-village.jpg",
     },
     {
       id: 3,
